@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @tillerderek
-- 👀 I’m interested in ... extraterrestrial life-forms
-- 🌱 I’m currently learning ... the ropes
-- 💞️ I’m looking to collaborate on ... deep state black ops
 - 📫 How to reach me ... derektiller.me
 
 <!---
