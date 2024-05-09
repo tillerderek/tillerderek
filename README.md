@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tillerderek
 - 📫 How to reach me ... tillerderek@gmail.com
-- check out my work derektiller.com
+- check out my work [derektiller.com](https://derektiller.com)
 
 <!---
 tillerderek/tillerderek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
