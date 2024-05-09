@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tillerderek
+- 👋 Hi, I’m Derek
 - 📫 How to reach me ... tillerderek@gmail.com
 - check out my work [derektiller.com](https://derektiller.com)
 
